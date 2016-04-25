@@ -1,0 +1,16 @@
+ //Initiate pin for Worx front
+ Int WorxMMicroSwitch = 1
+ //Initiate pin for Worx back
+ Int WorxLMicroSwitch = 2
+ Initiate pin for relay_1
+ Int LargeFrontArea = 3
+ Initiate pin for relay_2
+ Int SmalFrontArea = 4
+ Initiate pin for relay_3
+ Int LargeBackArea = 5
+ Initiate pin for relay_4
+ Int SmalBackArea = 6
+ Int ForLoopCounter = 0
+ 
+ 
+  
